@@ -31,3 +31,6 @@
 <li>Github Username : https://github.com/SnehaVPujari007</li>
 <li>Gmail : dotsnehapujari555@gmail.com</li>
 </ol>
+
+## Dashboard
+![Paris Olympic Games 2024 Dashboard](https://github.com/user-attachments/assets/9603263e-4f7f-443a-a18c-d842c3b06a48)
